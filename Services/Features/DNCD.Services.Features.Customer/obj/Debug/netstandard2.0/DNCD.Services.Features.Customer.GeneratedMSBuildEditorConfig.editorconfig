@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DNCD.Services.Features.Customer
+build_property.ProjectDir = D:\VSProjects\Dockers\Docker.DotNetCoreDemo-master\Docker.DotNetCoreDemo-master\Services\Features\DNCD.Services.Features.Customer\

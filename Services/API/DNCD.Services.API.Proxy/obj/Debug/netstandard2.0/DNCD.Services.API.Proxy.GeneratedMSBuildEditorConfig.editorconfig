@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DNCD.Services.API.Proxy
+build_property.ProjectDir = D:\VSProjects\Dockers\Docker.DotNetCoreDemo-master\Docker.DotNetCoreDemo-master\Services\API\DNCD.Services.API.Proxy\
